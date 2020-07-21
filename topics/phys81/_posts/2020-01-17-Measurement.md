@@ -123,4 +123,4 @@ $$
 \end{align*}
 $$
 
-### [Quiz 1 answers](quiz1.md)
+### [Quiz 1 answers](./quiz1.md)
