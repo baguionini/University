@@ -1,20 +1,13 @@
 ---
 layout: post
-title:  "COMM10"
-date:   2020-07-21 22:49:53 +0800
-categories: jekyll update
+title:  "Lecture 1: Orality and Literacy"
+date:   2020-01-17 22:49:53 +0800
+category: comm10
 ---
-
-# Orality and Literacy
-
-**Date:** 2020-01-17
-
-
 
 **“NO READ, NO WRITE”**
 
 - Implies illiterate and uneducated.
-
 
 
 #### Civilised vs Savage
