@@ -2,6 +2,8 @@
 layout: post
 title: "MATH 54"
 category: math54
+year: '2019-2020'
+sem: '2nd'
 ---
 ### Elementary Analysis II
 

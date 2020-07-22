@@ -2,6 +2,8 @@
 layout: post
 title: "SAS 1"
 category: sas1
+year: '2019-2020'
+sem: '1st'
 ---
 ### Self and Society
 

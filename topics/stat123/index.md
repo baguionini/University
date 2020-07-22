@@ -2,6 +2,8 @@
 layout: post
 title: "STAT 123"
 category: stat123
+year: '2019-2020'
+sem: '1st'
 ---
 ### Probability and Statistics 
 

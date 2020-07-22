@@ -2,6 +2,8 @@
 layout: post
 title: "CMSC 57"
 category: cmsc57
+year: '2019-2020'
+sem: '2nd'
 ---
 ### Discrete Mathematical Structures in Computer Science 2 
 

@@ -2,6 +2,8 @@
 layout: post
 title: "CMSC 56"
 category: cmsc56
+year: '2019-2020'
+sem: '1st' 
 ---
 ### Discrete Mathematical Structures in Computer Science 1 
 
